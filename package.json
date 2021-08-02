@@ -1,6 +1,6 @@
 {
   "name": "paolourciullo",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "this is my virtual businesscard",
   "main": "index.js",
   "bin": {
