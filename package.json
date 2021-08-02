@@ -1,0 +1,23 @@
+{
+  "name": "paolourciullo",
+  "version": "1.1.0",
+  "description": "this is my virtual businesscard",
+  "main": "index.js",
+  "bin": {
+    "card": "index.js",
+    "test": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "contact",
+    "info",
+    "software",
+    "developer",
+    "engineer"
+  ],
+  "author": "paolourciullo",
+  "license": "ISC"
+}
